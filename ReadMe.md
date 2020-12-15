@@ -25,4 +25,5 @@ The application uses a logistic regression model with a 72% accuracy and 66 % re
 A 5 minute pitch of the project is found at the file: CP8318 Final Project Presentation Recoding - Albina Cako and Jeffrey Rezazada.mp4. The presentation describes a quick overview of the project. The end of the presentation provides a guide on how to use the run and use the application.
 
 ---------------------------------------------------- Final Report ---------------------------------------------------
+
 The final project report can be found under the filename: CP8318_Final_Report_CVD_Predicition_Albina_Cako_Jeffrey_Rezazada.pdf
