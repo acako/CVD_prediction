@@ -1,4 +1,5 @@
 CVD Prediction
+
 --------------------------------------------------- Intro --------------------------------------------------------------
 
 This project focuses on building a machine learning model to predict the risk of developing cardiovascular disease (CVD) for CP8318 (Machine Learning Course at Ryerson University for graduate students). The original dataset can be accessed from: https://www.kaggle.com/sulianova/cardiovascular-disease-dataset. In this project we trained and tested 7 different machine learning models.
