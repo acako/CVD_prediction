@@ -19,4 +19,4 @@ Green indicates a risk factor of below 50%
 Yellow indicates a risk factor between 50% and 75%
 Red indicates a risk factor above 75%
 
-Disclaimer: The application was made for the purpose of the CP8318 Final Project. The application is 72 % accurate and has a 66% recall score. The application does not replace medical advice. 
+Disclaimer: The application was made for the purpose of the CP8318 Final Project. The application is 72 % accurate and has a 66% recall score. It does not replace medical advice. 
